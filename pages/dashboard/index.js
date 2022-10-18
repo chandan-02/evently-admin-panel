@@ -8,7 +8,7 @@ import moment from 'moment';
 
 //components
 import GreetTab from "../../components/dashboard/GreetTab";
-import TabNotification from '../../components/Dashboard/notiTab';
+import TabNotification from '../../components/dashboard/notiTab';
 
 const config = {
     xField: 'time',
