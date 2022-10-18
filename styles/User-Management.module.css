@@ -1,0 +1,18 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  flex-grow: 1;
+  padding: 1rem;
+}
+
+.searchSection {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+}
+.tableStyles {
+  margin: 1.5rem 0 0 0;
+}
